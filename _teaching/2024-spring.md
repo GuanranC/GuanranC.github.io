@@ -9,11 +9,8 @@ location: Binghamton, NY
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Teach independently two discussion sections which have 31 undergraduate students in total every week
 ======
 
-Heading 2
-======
-
-Heading 3
+Grade 31 students' assignments
 ======
