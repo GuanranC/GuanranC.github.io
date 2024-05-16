@@ -13,4 +13,4 @@ You can find my CV here: [Guanran Cui's CV](../assets/Cui-CV_NEW.pdf)
 
 See my current Digital History Project about [1910-1911 Manchurain Plague](https://rpubs.com/guanran/manchurian_plague_1911_rnotebook)
 
-Email me: [gcui@binghamton.edu]
+Email me: [gcui@binghamton.edu](mailto: gcui@binghamton.edu)
